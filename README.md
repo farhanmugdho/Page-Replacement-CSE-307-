@@ -1,7 +1,7 @@
 # CSE-307 Term Paper — Track 1: Learned Page Replacement
 
 **Course:** CSE-307 Operating Systems, Section B — *Learning-Augmented OS Heuristics: Classical Algorithms Meet Adaptive Prediction*
-**Author:** Farhan Mugdho ([@farhanmugdho](https://github.com/farhanmugdho))
+**Author:** Farhan Intesar Mugdho ([@farhanmugdho](https://github.com/farhanmugdho))
 
 Classical page replacement (FIFO, LRU, Belady's Optimal) is compared against a small learned eviction policy
 (decision tree / logistic regression) on a synthetic trace whose access pattern **shifts halfway through**.
