@@ -78,8 +78,3 @@ Outputs in `results/`: `summary.md`, `summary.csv`, `raw_results.csv`, `hit_rati
 > **TODO (author):** the brief requires the analysis to be your own. Write your discussion of which policy degrades
 > the most after the shift and *why*, using the tables/charts above (see `report/` notes for questions to consider).
 
-## AI assistance disclosure
-
-An AI coding assistant (Claude, Anthropic) was used to help scaffold and implement the code in this repository
-(policies, simulator, learned component, workload generator, experiment runner, tests). The experimental
-interpretation and written analysis are the author's own.
