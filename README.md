@@ -36,6 +36,10 @@ Classical page replacement (FIFO, LRU, Belady's Optimal) is compared against a s
 ## Setup & run
 
 ```bash
+cd $HOME\Documents
+git clone https://github.com/farhanmugdho/Page-Replacement-CSE-307-.git
+cd Page-Replacement-CSE-307-
+dir
 python -m venv .venv && source .venv/bin/activate   # optional
 pip install -r requirements.txt
 python -m pytest -q tests          # classical algorithms check
